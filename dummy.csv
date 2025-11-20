@@ -1,0 +1,49 @@
+﻿id;phone_number;full_name;birthday;country;zipcode;iban_last3;meter_id;new_meter_value;old_meter_value;email;street_address;city;password
+7;+491608321;Lukas Weber;03.12.90;DE;10115;214;7019234;10400;10540;lukas.weber@gmail.com;str Dummy nr 78;Berlin;NULL
+8;+447700920;Emma Collins;11.05.88;GB;W1A1AA;517;8801221;9800;9700;emma.collins@yahoo.com;str Dummy nr 78;Berlin;NULL
+9;+31641234;Jan de Vries;7/21/1992;NL;1012AB;336;1200334;8000;7400;jan.devries@outlook.com;str Dummy nr 78;Berlin;NULL
+10;+491706219903;Anna Schmidt;2/18/1985;DE;80331;502;7712458;18400;18250;anna.schmidt@gmail.com;str Dummy nr 78;Düsseldorf;NULL
+11;+447450-112-233;Oliver Brown;09.09.93;GB;SW1A2AA;149;9003221;12200;12300;oliver.brown@yahoo.com;str Dummy nr 78;Berlin;NULL
+12;+31648481230;Sophie Bakker;5/25/1991;NL;3061AA;221;5401234;7999;8000;sophie.bakker@gmail.com;str Dummy nr 78;Berlin;NULL
+13;+491714110020;Max Fischer;01.02.89;DE;50667;392;7801233;19500;19800;max.fischer@eon.com;str Dummy nr 78;Berlin;NULL
+14;+447901-553298;Grace Miller;6/13/1994;GB;E16AN;611;8810923;9050;8900;grace.miller@gmail.com;str Dummy nr 78;Berlin;NULL
+15;+31651239200;Tom Visser;08.07.87;NL;3511AA;377;4300911;15400;15500;tom.visser@outlook.com;str Dummy nr 78;Berlin;NULL
+16;+491763309912;Lea Hoffmann;4/19/1996;DE;20095;228;7100923;11750;11700;lea.hoffmann@yahoo.com;str Dummy nr 78;Berlin;NULL
+17;+447812992300;Harry Evans;10.03.92;GB;L11AA;405;9900221;16200;16000;harry.evans@gmail.com;str Dummy nr 78;Berlin;NULL
+18;+31639287412;Emma Jansen;12/23/1988;NL;9711AA;533;5600123;10800;10700;emma.jansen@yahoo.com;str Dummy nr 78;Berlin;NULL
+19;+491708812200;Paul Becker;7/15/1990;DE;1067;266;7900112;19100;19000;paul.becker@gmail.com;str Dummy nr 78;Berlin;NULL
+20;+447499440110;Lucy Harris;3/29/1995;GB;N11AB;333;8820211;7200;7100;lucy.harris@outlook.com;str Dummy nr 78;Berlin;NULL
+21;+31629108422;Mark de Boer;02.11.89;NL;1053AA;428;6003122;11100;10900;mark.deboer@gmail.com;str Dummy nr 78;Berlin;NULL
+22;+491755519002;Sara Klein;06.04.94;DE;70173;505;7300111;9600;9500;sara.klein@yahoo.com;str Dummy nr 78;Berlin;NULL
+23;+447700333920;Jack Turner;1/22/1987;GB;B11AA;281;8819934;14000;13800;jack.turner@gmail.com;str Dummy nr 78;Berlin;NULL
+24;+31639842399;Lisa van Leeuwen;9/17/1993;NL;3011AA;372;7101122;8700;8600;lisa.leeuwen@yahoo.com;str Dummy nr 78;Berlin;NULL
+25;+491629012299;Tim Wagner;10/30/1992;DE;90402;290;7809444;17800;17500;tim.wagner@gmail.com;str Dummy nr 78;Berlin;NULL
+26;+447709883422;Amy Johnson;5/14/1989;GB;EH12AA;445;9910344;12500;12300;amy.johnson@yahoo.com;str Dummy nr 78;Berlin;NULL
+27;+31647899022;Nick Smit;2/28/1990;NL;6811AA;429;6600233;9500;9400;nick.smit@gmail.com;str Dummy nr 78;Berlin;NULL
+28;+491602209120;Lara Schulz;08.09.95;DE;4109;323;7000110;18800;18700;lara.schulz@outlook.com;str Dummy nr 78;Berlin;NULL
+29;+447832119922;Adam Scott;07.02.88;GB;CF101AA;355;8700221;110002;110000;adam.scott@gmail.com;str Dummy nr 78;Berlin;NULL
+30;+31633456711;Mila Vos;01.11.96;NL;6814AA;588;5500033;7900;7700;mila.vos@yahoo.com;str Dummy nr 78;Berlin;NULL
+31;+491718890020;Ben Koch;9/18/1990;DE;28195;601;7200122;13400;13200;ben.koch@gmail.com;str Dummy nr 78;Berlin;NULL
+32;+447911220403;Ella Moore;12.10.87;GB;M11AA;313;8012923;17500;17400;ella.moore@outlook.com;str Dummy nr 78;Berlin;NULL
+33;+31631001122;Liam Bakker;05.05.91;NL;6211AA;410;6201222;10200;10000;liam.bakker@gmail.com;str Dummy nr 78;Berlin;NULL
+34;+491604001190;Mia Braun;6/26/1994;DE;18055;221;7000113;11400;11300;mia.braun@yahoo.com;str Dummy nr 78;Berlin;NULL
+35;+447500999221;Noah Wilson;03.07.93;GB;NE11AA;490;9900434;13200;13000;noah.wilson@gmail.com;str Dummy nr 78;Berlin;NULL
+36;+31621001929;Ava Meijer;1/30/1989;NL;7411AA;518;5003341;9100;9000;ava.meijer@outlook.com;str Dummy nr 78;Berlin;NULL
+37;+491722209100;Leon Meyer;4/19/1991;DE;34117;133;7401222;19700;19500;leon.meyer@gmail.com;str Dummy nr 78;Berlin;NULL
+38;+447400432122;Ruby Adams;11.08.90;GB;S11AA;277;9101444;16700;16600;ruby.adams@yahoo.com;str Dummy nr 78;Berlin;NULL
+39;+31627891111;Finn Bakker;10/14/1988;NL;9711AA;166;5301234;8500;8300;finn.bakker@gmail.com;str Dummy nr 78;Berlin;NULL
+40;+491603110022;Emma Roth;03.12.95;DE;60311;589;7100443;11600;11400;emma.roth@outlook.com;str Dummy nr 78;Berlin;NULL
+41;+447750331122;Jake King;09.01.86;GB;BS11AA;324;9900555;19200;19000;jake.king@gmail.com;str Dummy nr 78;Berlin;NULL
+42;+31628819022;Zoe Willems;8/24/1994;NL;2511AA;254;5401112;8900;8700;zoe.willems@yahoo.com;str Dummy nr 78;Berlin;NULL
+43;+491623100123;Nina Keller;06.11.88;DE;68159;431;7000666;10200;10100;nina.keller@gmail.com;str Dummy nr 78;Berlin;NULL
+44;+447900441222;Ryan Baker;10/15/1992;GB;LE11AA;292;8800222;15000;14900;ryan.baker@gmail.com;str Dummy nr 78;Berlin;NULL
+45;+31633345001;Eva Bos;02.06.96;NL;1011AA;513;6600999;7400;7300;eva.bos@outlook.com;str Dummy nr 78;Berlin;NULL
+46;+491769912300;Noah Frank;5/28/1989;DE;14467;8;7400777;18600;18500;noah.frank@gmail.com;str Dummy nr 78;Berlin;NULL
+47;+447455111233;Lily Ward;04.09.93;GB;NR11AA;201;8811777;9100;8900;lily.ward@yahoo.com;str Dummy nr 78;Berlin;NULL
+48;+31648122309;Tom Vos;1/19/1990;NL;6811AA;422;6201888;7900;7800;tom.vos@gmail.com;str Dummy nr 78;Berlin;NULL
+49;+491605510022;Mia Lang;7/16/1995;DE;80331;444;7100999;17100;17000;mia.lang@outlook.com;str Dummy nr 78;Berlin;NULL
+50;+447700820411;Sam Hill;11.12.87;GB;EH31AA;378;9011111;9700;9500;sam.hill@gmail.com;str Dummy nr 78;Berlin;NULL
+51;+31644455009;Nora Mulder;10.01.92;NL;2311AA;390;5601666;8100;8000;nora.mulder@yahoo.com;str Dummy nr 78;Berlin;NULL
+52;+491627001881;Tom Bauer;2/27/1990;DE;90402;511;7001555;11200;11100;tom.bauer@gmail.com;str Dummy nr 78;Berlin;NULL
+53;+447905442133;Ella Price;8/30/1988;GB;CF11AA;432;9901888;17700;17500;ella.price@gmail.com;str Dummy nr 78;Berlin;NULL
+54;+31629900123;Max van Dijk;9/25/1994;NL;6211AA;299;6501888;8500;8300;max.dijk@outlook.com;str Dummy nr 78;Berlin;NULL
