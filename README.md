@@ -1,11 +1,28 @@
-Install via cmd: pip install -r requirements.txt
-If on MAC: pip3 install -r requirements.txt
+# CognigyTester
 
-To run the script: python3 testingScript.py 
+CognigyTester is a Python-based test harness for validating conversational flows against a Cognigy endpoint and Azure OpenAI. It generates realistic customer scenarios from CSV templates and runs them across multiple mock customer profiles to check whether the bot behaves correctly for different use cases.
 
-The script runs sequentially through every prompt for the given use case times mock personal data 
+Examples of supported scenarios include:
+- Submit Meter Reading
+- Outage Reporting
+- Address Change
+- Authentication
+- Smart FAQ
+- Fallback / escalation cases
 
-To specify the use case: 
-USE_CASE = "Submit Meter Reading" - replace with a string of the respective use case name
+## Features
+- Loads prompt templates from `prompts.csv`
+- Replaces placeholders with customer data from `dummy.csv`
+- Runs scenario-based tests across multiple dummy customers
+- Sends messages to the Cognigy endpoint
+- Uses ChatGPT/Azure OpenAI as a conversational comparison or validation layer
+- Stores conversation history and generated IDs for traceability
 
-If chosen "None", bulks all test cases. 
+## Requirements
+- Python 3.9+
+- pip
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
