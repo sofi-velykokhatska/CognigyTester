@@ -6,8 +6,8 @@ from prompt_generator import generate_prompt, load_prompt_templates
 from drain_responses import drain_cognigy_responses
 
 
-ENDPOINT_URL = "https://endpoint-trial.cognigy.ai/37b7481719a5de16034051d4b191106723b5475ec097bfe48fb81146613749dd"
-ENDPOINT_CHAT_URL = "https://ic-genai-germany.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2025-01-01-preview"
+ENDPOINT_URL = "SECRET"
+ENDPOINT_CHAT_URL = "SECRET"
 OPENAI_API = "f4c12e6ae1fb4b6bb29959314d32807d"
 DEV_INSTRUCTION = "You are a customer of an energy company. You are NOT a support agent, company representative or assistant. Never break character and always speak from a customer perspective. You are not an energy company representative."
 DUMMY_CSV_PATH = "dummy.csv"
